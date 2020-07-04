@@ -5,7 +5,7 @@ android {
     buildToolsVersion '27.0.3'
 
     defaultConfig {
-        applicationId "com.example.robpercival.braintrainer"
+        applicationId "com.example.firuz.braintrainer"
         minSdkVersion 22
         targetSdkVersion 22
         versionCode 1
